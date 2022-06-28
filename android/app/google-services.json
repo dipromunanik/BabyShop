@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1050520504483",
+    "project_id": "baby-ecommerce",
+    "storage_bucket": "baby-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050520504483:android:8ac19cf863120a64f0d716",
+        "android_client_info": {
+          "package_name": "com.example.baby_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050520504483-n14cvrm49l4rtidictct3eug8esl4bt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK9FgMcEtoX-_oC0SoyLorJ9T38gj2Yps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050520504483-n14cvrm49l4rtidictct3eug8esl4bt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050520504483:android:f5ff1e7ac9e966edf0d716",
+        "android_client_info": {
+          "package_name": "com.example.baby_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050520504483-n14cvrm49l4rtidictct3eug8esl4bt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK9FgMcEtoX-_oC0SoyLorJ9T38gj2Yps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050520504483-n14cvrm49l4rtidictct3eug8esl4bt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
